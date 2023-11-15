@@ -59,7 +59,7 @@ After completing the installation instructions, you can access the "Hello World"
 
 ![Alt text](<./images/Screenshot%20(102).png>)
 
-![Alt text](<./images/Screenshot%20(104).png>>)
+![Alt text](<./images/Screenshot%20(104).png>)
 
 ![Alt text](<./images/Screenshot%20(105).png>)
 
